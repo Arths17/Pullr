@@ -1,0 +1,10 @@
+Pullr
+Copyright 2026 The Pullr contributors
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+Third-party components
+----------------------
+three.js        MIT License       https://github.com/mrdoob/three.js
+Lucide icons    ISC License       https://github.com/lucide-icons/lucide
+                (Some Lucide icons derive from Feather, MIT License.)
